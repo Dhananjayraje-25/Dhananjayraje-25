@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **ghorpadedhananjay1@gmail.com** For Collaboration/Project 
 - 🔭 **I’m currently working on:** Devops Projects
 - 🌱 **I’m currently learning:** AI & Automation in Devops
 - 👯 **I’m looking to collaborate on:** GitOps
-- 🤔 **I’m looking for help with:** finOps
+- 🤔 **I’m looking for help with:** FinOps
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ghorpadedhananjay1@gmail.com
 - 😄 **Pronouns:** Dhananjay Sir
